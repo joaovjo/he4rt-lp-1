@@ -43,7 +43,7 @@ export function ContactFooter() {
 
             <div className="mt-12 flex items-center justify-between border-t border-white/5 pt-8">
               <p className="text-sm text-muted-foreground">
-                © 2024 He4rt Developers. Todos os direitos reservados.
+                © 2026 He4rt Developers. Todos os direitos reservados.
               </p>
               <div className="flex gap-4">
                 <Github className="h-5 w-5 text-muted-foreground hover:text-foreground cursor-pointer" />

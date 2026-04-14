@@ -1,5 +1,6 @@
 import { Navbar } from "./components/Navbar";
 import { Hero } from "./components/Hero";
+import { MetricsSection } from "./components/MetricsSection";
 import { ActivitySection } from "./components/ActivitySection";
 import { ProjectsSection } from "./components/ProjectsSection";
 import { ArticlesSection } from "./components/ArticlesSection";
@@ -12,6 +13,7 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
+        <MetricsSection />
         <ActivitySection />
         <ProjectsSection />
         <ArticlesSection />
